@@ -19,8 +19,8 @@ const PROJECTS: Project[] = [
   color: "#D4A373",
   glowColor: "rgba(212, 163, 115, 0.35)",
   image: "/images/wall1.png",
-  githubUrl: "https://github.com/Kabir-2009",
-  liveUrl: "http://localhost:3000",
+ githubUrl: "https://github.com/Kabir-2009",
+liveUrl: "https://kabir-portfolio-qzlblkiku-kabir-2009.vercel.app",
 },
 ];
 
@@ -61,7 +61,7 @@ export default function Projects() {
           </div>
           <h2 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-extrabold text-white leading-[1.1] tracking-tight">
             My Projects
-          </h2>
+          </h2> 
         </div>
 
         {/* Pure Image Grid View */}
